@@ -50,9 +50,9 @@
 a.nav-link:active{
     font-weight: 700;
 }
-img{
-    width: 100%;
-}
+// img{
+//     width: 100%;
+// }
 .slide211,.slide212,.slide213{
     padding:0px;
     overflow: hidden;
@@ -83,4 +83,12 @@ h3{
 }
 .footer{
     margin-bottom: 0px;
+}
+.slide211{
+    border: 1px solid red;
+}
+.s10{
+    h3{
+        font-size: 14px;
+    }
 }
